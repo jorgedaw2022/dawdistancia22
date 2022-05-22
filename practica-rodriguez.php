@@ -1,7 +1,7 @@
 <?php
 /**
-* @author Jorge
-* @version 1.0
+* @author Jorge Rodriguez
+* @version 2.0
 */
 
 /**
